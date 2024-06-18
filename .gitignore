@@ -4,3 +4,5 @@
 
 /.vs
 /WebApplication2/obj
+/WebApplication2/bin/Release/net8.0
+/WebApplication2/bin/Debug/net8.0
